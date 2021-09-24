@@ -1,0 +1,19 @@
+{
+  "name": "code-snippet",
+  "version": "1.0.0",
+  "description": "代码片段",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laienshun/code-snippet.git"
+  },
+  "author": "赖恩顺",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laienshun/code-snippet/issues"
+  },
+  "homepage": "https://github.com/laienshun/code-snippet#readme"
+}
